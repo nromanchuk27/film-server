@@ -1,3 +1,3 @@
 # film-server
 
-#### I used NogeJS, Express, MongoDB
+#### I used NogeJS, Express, MongoDB, Mongoose
