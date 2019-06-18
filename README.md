@@ -11,4 +11,4 @@
 ##### $ npm install -g nodemon
 ##### $ npm install mongoose --save
 ##### $npm install body-parser --save
-##### TO START serever - nodemon index
+##### TO START serever - $ nodemon index
